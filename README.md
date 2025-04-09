@@ -9,3 +9,4 @@ See draw_fractal
 See calculate_mandelbrot for example.
 
 5- If the suite diverges, color the pixel in white. If the suite converges, color the pixel in black
+![32923636492_319b2096bc_o](https://github.com/user-attachments/assets/eb19b0ae-fec4-4fba-9bed-fe3ced22003e)
